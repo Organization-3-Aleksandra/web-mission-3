@@ -3,7 +3,7 @@
 
 ## Показываю данные в supabase,работу buildship workflows и sql-запросы из части 3.
 
-[Link to video]([https://disk.yandex.ru/i/H_Mw9GluVTtrGg](https://disk.yandex.ru/i/a1h9NCQcC7HZmg))
+[Link to video](https://disk.yandex.ru/i/a1h9NCQcC7HZmg)
 
 ## SQL-запросы
 
