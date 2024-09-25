@@ -1,7 +1,7 @@
                                            
 # Mission 3
 
-## Ссылка на видео // Показываю данные в supabase, показываю работу buildship workflows и sql-запросы из части 3.
+## Показываю данные в supabase,работу buildship workflows и sql-запросы из части 3.
 
 [Link to video](https://disk.yandex.ru/i/H_Mw9GluVTtrGg)
 
